@@ -74,5 +74,34 @@
   { "id": 59, "entity": "Program", "action": "Create", "name": "Program:Create", "desc": "Create Program Records" },
   { "id": 60, "entity": "Program", "action": "Review", "name": "Program:Review", "desc": "Review Program Records" },
   { "id": 61, "entity": "Program", "action": "Update", "name": "Program:Update", "desc": "Update Program Records" },
-  { "id": 62, "entity": "Program", "action": "Delete", "name": "Program:Delete", "desc": "Delete Program Records" }
+  { "id": 62, "entity": "Program", "action": "Delete", "name": "Program:Delete", "desc": "Delete Program Records" },
+    {
+    "id": 63,
+    "entity": "PLANT",
+    "action": "1",
+    "name": "PLANT:1",
+    "desc": "VIEW PLANT 1"
+  },
+  {
+    "id": 64,
+    "entity": "PLANT ",
+    "action": "2",
+    "name": "PLANT :2",
+    "desc": "VIEW PLANT 2"
+  },
+  {
+    "id": 65,
+    "entity": "PLANT ",
+    "action": "3",
+    "name": "PLANT :3",
+    "desc": "VIEW PLANT 3"
+  },
+  {
+    "id": 66,
+    "entity": "PLANT",
+    "action": "9",
+    "name": "PLANT:9 ",
+    "desc": "VIEW PLANT 9"
+  }
+
 ]
