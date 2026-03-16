@@ -444,14 +444,14 @@
     "id": 64,
     "entity": "PLANT",
     "action": "2",
-    "name": "PLANT :2",
+    "name": "PLANT:2",
     "desc": "VIEW PLANT 2"
   },
   {
     "id": 65,
     "entity": "PLANT",
     "action": "3",
-    "name": "PLANT :3",
+    "name": "PLANT:3",
     "desc": "VIEW PLANT 3"
   },
   {
