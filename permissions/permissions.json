@@ -4,91 +4,91 @@
     "entity": "PLANT",
     "action": "1",
     "name": "PLANT:1",
-    "desc": "VIEW PLANT 1"
+    "desc": "PLANT 1"
   },
   {
     "id": 64,
     "entity": "PLANT",
     "action": "2",
     "name": "PLANT:2",
-    "desc": "VIEW PLANT 2"
+    "desc": "PLANT 2"
   },
   {
     "id": 65,
     "entity": "PLANT",
     "action": "3",
     "name": "PLANT:3",
-    "desc": "VIEW PLANT 3"
+    "desc": "PLANT 3"
   },
   {
     "id": 66,
     "entity": "PLANT",
     "action": "9",
     "name": "PLANT:9",
-    "desc": "VIEW PLANT 9"
+    "desc": "PLANT 9"
   },
   {
     "id": 67,
     "entity": "PLANT",
     "action": "10",
     "name": "PLANT:10",
-    "desc": "VIEW PLANT 10"
+    "desc": "PLANT 10"
   },
   {
     "id": 68,
     "entity": "SHIFT",
     "action": "1",
     "name": "SHIFT:1",
-    "desc": "VIEW 1ST SHIFT"
+    "desc": "1ST SHIFT"
   },
   {
     "id": 69,
     "entity": "SHIFT",
     "action": "2",
     "name": "SHIFT:2",
-    "desc": "VIEW 2ND SHIFT"
+    "desc": "2ND SHIFT"
   },
   {
     "id": 70,
     "entity": "MENU",
     "action": "PRODUCTION",
     "name": "MENU:PRODUCTION",
-    "desc": "VIEW PRODUCTION MENU"
+    "desc": "PRODUCTION MENU"
   },
   {
     "id": 71,
     "entity": "MENU",
     "action": "DASHBBOARD",
     "name": "MENU:DASHBBOARD",
-    "desc": "VIEW DASHBOARD MENU"
+    "desc": "DASHBOARD MENU"
   },
   {
     "id": 72,
     "entity": "MENU",
     "action": "OPERATIONS",
     "name": "MENU:OPERATIONS",
-    "desc": "VIEW OPERATIONS MENU"
+    "desc": "OPERATIONS MENU"
   },
   {
     "id": 73,
     "entity": "MENU",
     "action": "FORMS",
     "name": "MENU:FORMS",
-    "desc": "VIEW FORM MENU"
+    "desc": "FORM MENU"
   },
   {
     "id": 74,
     "entity": "LOCATION",
     "action": "1",
     "name": "LOCATION:1",
-    "desc": "VIEW MACON LOCATION"
+    "desc": "MACON"
   },
   {
     "id": 75,
     "entity": "LOCATION",
     "action": "2",
     "name": "LOCATION:2",
-    "desc": "VIEW JACKSON LOCATION"
+    "desc": "JACKSON"
   },
   {
     "id": 76,
