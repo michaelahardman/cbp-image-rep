@@ -442,14 +442,14 @@
   },
   {
     "id": 64,
-    "entity": "PLANT ",
+    "entity": "PLANT",
     "action": "2",
     "name": "PLANT :2",
     "desc": "VIEW PLANT 2"
   },
   {
     "id": 65,
-    "entity": "PLANT ",
+    "entity": "PLANT",
     "action": "3",
     "name": "PLANT :3",
     "desc": "VIEW PLANT 3"
@@ -458,7 +458,7 @@
     "id": 66,
     "entity": "PLANT",
     "action": "9",
-    "name": "PLANT:9 ",
+    "name": "PLANT:9",
     "desc": "VIEW PLANT 9"
   },
   {
@@ -519,9 +519,9 @@
   },
   {
     "id": 75,
-    "entity": "LOCATION ",
+    "entity": "LOCATION",
     "action": "2",
-    "name": "LOCATION :2",
+    "name": "LOCATION:2",
     "desc": "VIEW JACKSON LOCATION"
   }
 ]
