@@ -3,170 +3,1509 @@
     "roleId": 2,
     "roleName": "Guest",
     "location": [],
-    "menuIds": [],
-    "permissionIds": [],
+    "menus": [70, 72],
+    "shift": [],
     "plant": [],
-    "shift": []
+    "categoryPermissions": []
   },
-
   {
     "roleId": 32,
     "roleName": "All Access",
     "location": [74, 75],
-    "menuIds": [70, 72, 71, 73],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,
-      14,15,16,17,18,19,20,21,22,23,24,25,26,
-      27,28,29,30,31,32,33,34,35,36,37,38,
-      40,41,42,43,44,45,46,47,49,50,52,53,54,55,
-      56,57,58,59,60,61,62
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 71, 72, 73],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6, 8]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6, 12]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 5, 6, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 14,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 15,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 16,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 17,
+        "actions": [1, 2, 3, 4, 5, 6]
+      }
+    ]
   },
-
   {
     "roleId": 35,
     "roleName": "Viewer Role",
     "location": [74, 75],
-    "menuIds": [70,71],
-    "permissionIds": [
-      2,6,11,15,19,23,28,32,36,40,45,50
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 5,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 10,
+        "actions": [2]
+      },
+      {
+        "categoryId": 11,
+        "actions": [2]
+      },
+      {
+        "categoryId": 12,
+        "actions": [2]
+      },
+      {
+        "categoryId": 13,
+        "actions": [2]
+      }
+    ]
   },
-
   {
     "roleId": 11,
     "roleName": "Executive",
     "location": [74, 75],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,26,5,6,7,8,9,26,10,11,12,13,26,
-      14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 8, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
   },
-
   {
     "roleId": 15,
     "roleName": "Executive 2",
     "location": [74, 75],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,26,5,6,7,8,9,26,10,11,12,13,26,
-      14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 8, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
   },
-
   {
     "roleId": 1,
     "roleName": "IT Admin",
     "location": [74, 75],
-    "menuIds": [70,72,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-      18,19,20,21,22,23,24,25,27,28,29,30,31,32,
-      33,34,35,36,37,38,40,41,42,43,44,45,46,47
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 71, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6, 8]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 5, 6]
+      }
+    ]
   },
-
   {
     "roleId": 18,
     "roleName": "IT User",
     "location": [74, 75],
-    "menuIds": [70,72,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,35,36,37,38,40,41,42,43,44,45,46,47
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 71, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
   },
-
   {
     "roleId": 19,
     "roleName": "IT All Permissions",
-    "location": [74,75],
-    "menuIds": [70,72,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-      18,19,20,21,22,23,24,25,26,27,28,29,30,31,
-      32,33,34,35,36,37,38,40,41,42,43,44,45,46,47
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "location": [74, 75],
+    "menus": [70, 71, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6, 8]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6, 12]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 5, 6]
+      }
+    ]
   },
-
   {
     "roleId": 14,
     "roleName": "Mine Supervisor",
     "location": [74],
-    "menuIds": [70,71],
-    "permissionIds": [
-      14,15,16,17,27,28,29,30,31,32,33,34,35,36,37,38
-    ],
-    "plant": [63,64,65,66,67],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4, 5, 6]
+      }
+    ]
   },
-
   {
     "roleId": 33,
     "roleName": "Macon Prod Manager",
     "location": [74],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42
-    ],
-    "plant": [63,64,65],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 11,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      }
+    ]
   },
-
   {
     "roleId": 34,
     "roleName": "Jackson Prod Manager",
     "location": [75],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,10,11,12,13,22,23,24,25,
-      27,28,29,30,31,32,33,34,39,40,41,42
-    ],
-    "plant": [66,67],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
   },
-
   {
     "roleId": 3,
     "roleName": "Plt1&2 Superintendent",
     "location": [74],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,39,40,41,42
-    ],
-    "plant": [63,64],
-    "shift": [68, 69]
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      }
+    ]
   },
-
   {
     "roleId": 4,
     "roleName": "Plt3 Superintendent",
     "location": [74],
-    "menuIds": [70,71],
-    "permissionIds": [
-      1,2,3,4,5,6,7,8,14,15,16,17,18,19,20,21,22,23,24,25,
-      27,28,29,30,31,32,33,34,39,40,41,42
-    ],
+    "menus": [70, 72],
+    "shift": [68, 69],
     "plant": [65],
-    "shift": [68, 69]
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 6,
+    "roleName": "Plt1&2 Assist Superintendent",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 7,
+    "roleName": "Plt3 Assist Superintedent",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 8,
+    "roleName": "Macon 2nd Superintendent",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 9,
+    "roleName": "Macon 2nd Ast. Superintendent",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 16,
+    "roleName": "Macon S&G Superintendent",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 39,
+    "roleName": "Jackson Prod Supervisor",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 17,
+    "roleName": "Macon Mill User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 38,
+    "roleName": "Macon Control Room User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 22,
+    "roleName": "Macon Lab User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 36,
+    "roleName": "Macon Pkg User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 5,
+    "roleName": "Jackson Mill User",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 10,
+    "roleName": "Jackson Control Room User",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 12,
+    "roleName": "Jackson Lab User",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 13,
+    "roleName": "Jackson Pkg User",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 37,
+    "roleName": "Run Manager",
+    "location": [74, 75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 29,
+    "roleName": "Macon Scheduler",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 30,
+    "roleName": "Jackson Scheduler",
+    "location": [75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 31,
+    "roleName": "Scheduler",
+    "location": [74, 75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4, 5]
+      },
+      {
+        "categoryId": 7,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4, 9]
+      },
+      {
+        "categoryId": 10,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 28,
+    "roleName": "Shapes Manager",
+    "location": [74, 75],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 10,
+        "actions": [2]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      }
+    ]
+  },
+  {
+    "roleId": 27,
+    "roleName": "Shapes Production User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 20,
+    "roleName": "Purchasing Agent",
+    "location": [74, 75],
+    "menus": [70, 71, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 5,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 10,
+        "actions": [2]
+      },
+      {
+        "categoryId": 11,
+        "actions": [2]
+      },
+      {
+        "categoryId": 12,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 11]
+      }
+    ]
+  },
+  {
+    "roleId": 21,
+    "roleName": "S&G User",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 5,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      }
+    ]
+  },
+  {
+    "roleId": 23,
+    "roleName": "Purchasing Manager",
+    "location": [74],
+    "menus": [70, 71, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65, 66, 67],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [2]
+      },
+      {
+        "categoryId": 2,
+        "actions": [2]
+      },
+      {
+        "categoryId": 3,
+        "actions": [2]
+      },
+      {
+        "categoryId": 5,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [2]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 10,
+        "actions": [2]
+      },
+      {
+        "categoryId": 11,
+        "actions": [2]
+      },
+      {
+        "categoryId": 12,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 6]
+      }
+    ]
+  },
+  {
+    "roleId": 24,
+    "roleName": "Float Supervisor",
+    "location": [74],
+    "menus": [70, 72],
+    "shift": [68, 69],
+    "plant": [63, 64, 65],
+    "categoryPermissions": [
+      {
+        "categoryId": 1,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 2,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 3,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 5,
+        "actions": [2]
+      },
+      {
+        "categoryId": 6,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 7,
+        "actions": [2]
+      },
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 12,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
   }
 ]
