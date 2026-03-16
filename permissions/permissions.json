@@ -51,28 +51,28 @@
   {
     "id": 70,
     "entity": "MENU",
-    "action": "PRODUCTION",
+    "action": "1",
     "name": "MENU:PRODUCTION",
     "desc": "PRODUCTION MENU"
   },
   {
     "id": 71,
     "entity": "MENU",
-    "action": "DASHBBOARD",
+    "action": "2",
     "name": "MENU:DASHBBOARD",
     "desc": "DASHBOARD MENU"
   },
   {
     "id": 72,
     "entity": "MENU",
-    "action": "OPERATIONS",
+    "action": "3",
     "name": "MENU:OPERATIONS",
     "desc": "OPERATIONS MENU"
   },
   {
     "id": 73,
     "entity": "MENU",
-    "action": "FORMS",
+    "action": "4",
     "name": "MENU:FORMS",
     "desc": "FORM MENU"
   },
