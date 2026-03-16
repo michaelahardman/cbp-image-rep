@@ -1,0 +1,78 @@
+[
+  { "id": 1, "name": "Mill:create", "entity": "Mill", "action": "create", "desc": "Create Mill Records" },
+  { "id": 2, "name": "Mill:read", "entity": "Mill", "action": "read", "desc": "Read Mill Records" },
+  { "id": 3, "name": "Mill:update", "entity": "Mill", "action": "update", "desc": "Update Mill Records" },
+  { "id": 4, "name": "Mill:delete", "entity": "Mill", "action": "delete", "desc": "Delete Mill Records" },
+
+  { "id": 5, "name": "Burn:create", "entity": "Burn", "action": "create", "desc": "Create Burn Records" },
+  { "id": 6, "name": "Burn:read", "entity": "Burn", "action": "read", "desc": "Read Burn Records" },
+  { "id": 7, "name": "Burn:update", "entity": "Burn", "action": "update", "desc": "Update Burn Records" },
+  { "id": 8, "name": "Burn:delete", "entity": "Burn", "action": "delete", "desc": "Delete Burn Records" },
+  { "id": 9, "name": "Burn:emissionsUpdate", "entity": "Burn", "action": "emissionsUpdate", "desc": "Update Burn Emissions" },
+
+  { "id": 10, "name": "Pkg:create", "entity": "Pkg", "action": "create", "desc": "Create Packaging Records" },
+  { "id": 11, "name": "Pkg:read", "entity": "Pkg", "action": "read", "desc": "Read Packaging Records" },
+  { "id": 12, "name": "Pkg:update", "entity": "Pkg", "action": "update", "desc": "Update Packaging Records" },
+  { "id": 13, "name": "Pkg:delete", "entity": "Pkg", "action": "delete", "desc": "Delete Packaging Records" },
+
+  { "id": 14, "name": "SG:create", "entity": "SG", "action": "create", "desc": "Create SG Records" },
+  { "id": 15, "name": "SG:read", "entity": "SG", "action": "read", "desc": "Read SG Records" },
+  { "id": 16, "name": "SG:update", "entity": "SG", "action": "update", "desc": "Update SG Records" },
+  { "id": 17, "name": "SG:delete", "entity": "SG", "action": "delete", "desc": "Delete SG Records" },
+
+  { "id": 18, "name": "Lab:create", "entity": "Lab", "action": "create", "desc": "Create Lab Records" },
+  { "id": 19, "name": "Lab:read", "entity": "Lab", "action": "read", "desc": "Read Lab Records" },
+  { "id": 20, "name": "Lab:update", "entity": "Lab", "action": "update", "desc": "Update Lab Records" },
+  { "id": 21, "name": "Lab:delete", "entity": "Lab", "action": "delete", "desc": "Delete Lab Records" },
+
+  { "id": 22, "name": "Schedule:create", "entity": "Schedule", "action": "create", "desc": "Create Schedule Records" },
+  { "id": 23, "name": "Schedule:read", "entity": "Schedule", "action": "read", "desc": "Read Schedule Records" },
+  { "id": 24, "name": "Schedule:update", "entity": "Schedule", "action": "update", "desc": "Update Schedule Records" },
+  { "id": 25, "name": "Schedule:delete", "entity": "Schedule", "action": "delete", "desc": "Delete Schedule Records" },
+  { "id": 26, "name": "Schedule:testMill", "entity": "Schedule", "action": "testMill", "desc": "Test Mill Schedule" },
+
+  { "id": 27, "name": "Dashboard:create", "entity": "Dashboard", "action": "create", "desc": "Create Dashboard Entries" },
+  { "id": 28, "name": "Dashboard:read", "entity": "Dashboard", "action": "read", "desc": "Read Dashboard Entries" },
+  { "id": 29, "name": "Dashboard:update", "entity": "Dashboard", "action": "update", "desc": "Update Dashboard Entries" },
+  { "id": 30, "name": "Dashboard:delete", "entity": "Dashboard", "action": "delete", "desc": "Delete Dashboard Entries" },
+  { "id": 31, "name": "Dashboard:inbox", "entity": "Dashboard", "action": "inbox", "desc": "Access Dashboard Inbox" },
+
+  { "id": 32, "name": "Stats:create", "entity": "Stats", "action": "create", "desc": "Create Stats Records" },
+  { "id": 33, "name": "Stats:read", "entity": "Stats", "action": "read", "desc": "Read Stats Records" },
+  { "id": 34, "name": "Stats:update", "entity": "Stats", "action": "update", "desc": "Update Stats Records" },
+  { "id": 35, "name": "Stats:delete", "entity": "Stats", "action": "delete", "desc": "Delete Stats Records" },
+
+  { "id": 36, "name": "Mine:create", "entity": "Mine", "action": "create", "desc": "Create Mine Records" },
+  { "id": 37, "name": "Mine:read", "entity": "Mine", "action": "read", "desc": "Read Mine Records" },
+  { "id": 38, "name": "Mine:update", "entity": "Mine", "action": "update", "desc": "Update Mine Records" },
+  { "id": 39, "name": "Mine:delete", "entity": "Mine", "action": "delete", "desc": "Delete Mine Records" },
+
+  { "id": 40, "name": "Shapes:create", "entity": "Shapes", "action": "create", "desc": "Create Shapes Records" },
+  { "id": 41, "name": "Shapes:read", "entity": "Shapes", "action": "read", "desc": "Read Shapes Records" },
+  { "id": 42, "name": "Shapes:update", "entity": "Shapes", "action": "update", "desc": "Update Shapes Records" },
+  { "id": 43, "name": "Shapes:delete", "entity": "Shapes", "action": "delete", "desc": "Delete Shapes Records" },
+  { "id": 44, "name": "Shapes:schedule", "entity": "Shapes", "action": "schedule", "desc": "Schedule Shape Operations" },
+
+  { "id": 45, "name": "Purchasing:create", "entity": "Purchasing", "action": "create", "desc": "Create Purchasing Records" },
+  { "id": 46, "name": "Purchasing:read", "entity": "Purchasing", "action": "read", "desc": "Read Purchasing Records" },
+  { "id": 47, "name": "Purchasing:update", "entity": "Purchasing", "action": "update", "desc": "Update Purchasing Records" },
+  { "id": 48, "name": "Purchasing:delete", "entity": "Purchasing", "action": "delete", "desc": "Delete Purchasing Records" },
+
+  { "id": 49, "name": "Fillable:create", "entity": "Fillable", "action": "create", "desc": "Create Fillable Records" },
+  { "id": 50, "name": "Fillable:read", "entity": "Fillable", "action": "read", "desc": "Read Fillable Records" },
+
+  { "id": 51, "name": "HR:create", "entity": "HR", "action": "create", "desc": "Create HR Records" },
+  { "id": 52, "name": "HR:read", "entity": "HR", "action": "read", "desc": "Read HR Records" },
+  { "id": 53, "name": "HR:update", "entity": "HR", "action": "update", "desc": "Update HR Records" },
+  { "id": 54, "name": "HR:delete", "entity": "HR", "action": "delete", "desc": "Delete HR Records" },
+
+  { "id": 55, "name": "Assignments:create", "entity": "Assignments", "action": "create", "desc": "Create Assignment Records" },
+  { "id": 56, "name": "Assignments:read", "entity": "Assignments", "action": "read", "desc": "Read Assignment Records" },
+  { "id": 57, "name": "Assignments:update", "entity": "Assignments", "action": "update", "desc": "Update Assignment Records" },
+  { "id": 58, "name": "Assignments:delete", "entity": "Assignments", "action": "delete", "desc": "Delete Assignment Records" },
+
+  { "id": 59, "name": "Program:create", "entity": "Program", "action": "create", "desc": "Create Program Records" },
+  { "id": 60, "name": "Program:read", "entity": "Program", "action": "read", "desc": "Read Program Records" },
+  { "id": 61, "name": "Program:update", "entity": "Program", "action": "update", "desc": "Update Program Records" },
+  { "id": 62, "name": "Program:delete", "entity": "Program", "action": "delete", "desc": "Delete Program Records" }
+]
