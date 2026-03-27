@@ -10,7 +10,7 @@
   },
   {
     "roleId": 32,
-    "roleName": "All Access",
+    "roleName": "Programmer",
     "location": [1, 2],
     "menus": [1, 2, 3, 4],
     "shift": [1, 2],
@@ -74,6 +74,14 @@
       },
       {
         "categoryId": 17,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 8,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 4,
         "actions": [1, 2, 3, 4, 5, 6]
       }
     ]
@@ -184,51 +192,75 @@
   },
   {
     "roleId": 15,
-    "roleName": "Executive 2",
+    "roleName": "All Access",
     "location": [1, 2],
-    "menus": [1, 3],
+    "menus": [1, 2, 3, 4],
     "shift": [1, 2],
     "plant": [1, 2, 3, 9, 10],
     "categoryPermissions": [
       {
         "categoryId": 1,
-        "actions": [1, 2, 3, 4, 6]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 2,
-        "actions": [1, 2, 3, 4, 8, 6]
+        "actions": [1, 2, 3, 4, 5, 6, 8]
       },
       {
         "categoryId": 3,
-        "actions": [1, 2, 3, 4, 6]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 5,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 6,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 7,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6, 12]
       },
       {
         "categoryId": 9,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6, 9]
       },
       {
         "categoryId": 10,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 11,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5, 6]
       },
       {
         "categoryId": 12,
+        "actions": [1, 2, 3, 4, 5, 6, 10]
+      },
+      {
+        "categoryId": 13,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 14,
         "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 15,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 16,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 8,
+        "actions": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "categoryId": 4,
+        "actions": [1, 2, 3, 4, 5, 6]
       }
     ]
   },
@@ -336,6 +368,10 @@
       },
       {
         "categoryId": 13,
+        "actions": [1, 2, 3, 4]
+      },
+      {
+        "categoryId": 17,
         "actions": [1, 2, 3, 4]
       }
     ]
@@ -1497,6 +1533,42 @@
       {
         "categoryId": 12,
         "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 25,
+    "roleName": "Service Tech",
+    "location": [1, 2],
+    "menus": [2, 3],
+    "shift": [1, 2],
+    "plant": [1, 2, 3, 9, 10],
+    "categoryPermissions": [
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 8,
+        "actions": [1, 2, 3, 4]
+      }
+    ]
+  },
+  {
+    "roleId": 26,
+    "roleName": "Service Supervisor",
+    "location": [1, 2],
+    "menus": [2, 3],
+    "shift": [1, 2],
+    "plant": [1, 2, 3, 9, 10],
+    "categoryPermissions": [
+      {
+        "categoryId": 9,
+        "actions": [2]
+      },
+      {
+        "categoryId": 8,
+        "actions": [1, 2, 3, 4, 5, 6]
       }
     ]
   }
