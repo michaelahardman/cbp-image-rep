@@ -1,0 +1,42 @@
+{
+  "roleId": 26,
+  "roleName": "Service Supervisor",
+  "location": [
+    1,
+    2
+  ],
+  "menus": [
+    2,
+    3
+  ],
+  "shift": [
+    1,
+    2
+  ],
+  "plant": [
+    1,
+    2,
+    3,
+    9,
+    10
+  ],
+  "categoryPermissions": [
+    {
+      "categoryId": 9,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 8,
+      "actions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "roleId": 18,
+  "roleName": "IT User",
+  "location": [
+    1,
+    2
+  ],
+  "menus": [
+    1,
+    2,
+    3
+  ],
+  "shift": [
+    1,
+    2
+  ],
+  "plant": [
+    1,
+    2,
+    3,
+    9,
+    10
+  ],
+  "categoryPermissions": [
+    {
+      "categoryId": 1,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 2,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 3,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 5,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 6,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 7,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 9,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 10,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 11,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 12,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 13,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 17,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}

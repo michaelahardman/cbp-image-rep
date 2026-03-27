@@ -1,0 +1,62 @@
+{
+  "roleId": 14,
+  "roleName": "Mine Supervisor",
+  "location": [
+    1
+  ],
+  "menus": [
+    1,
+    3
+  ],
+  "shift": [
+    1,
+    2
+  ],
+  "plant": [
+    1,
+    2,
+    3,
+    9,
+    10
+  ],
+  "categoryPermissions": [
+    {
+      "categoryId": 5,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 9,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 10,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 11,
+      "actions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}

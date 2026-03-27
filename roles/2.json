@@ -1,0 +1,12 @@
+{
+  "roleId": 2,
+  "roleName": "Guest",
+  "location": [],
+  "menus": [
+    1,
+    3
+  ],
+  "shift": [],
+  "plant": [],
+  "categoryPermissions": []
+}

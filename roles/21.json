@@ -1,0 +1,52 @@
+{
+  "roleId": 21,
+  "roleName": "S&G User",
+  "location": [
+    1
+  ],
+  "menus": [
+    1,
+    3
+  ],
+  "shift": [
+    1,
+    2
+  ],
+  "plant": [
+    1,
+    2,
+    3
+  ],
+  "categoryPermissions": [
+    {
+      "categoryId": 5,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 6,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 7,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 9,
+      "actions": [
+        2
+      ]
+    }
+  ]
+}

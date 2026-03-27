@@ -1,0 +1,98 @@
+{
+  "roleId": 23,
+  "roleName": "Purchasing Manager",
+  "location": [
+    1
+  ],
+  "menus": [
+    1,
+    2,
+    3
+  ],
+  "shift": [
+    1,
+    2
+  ],
+  "plant": [
+    1,
+    2,
+    3,
+    9,
+    10
+  ],
+  "categoryPermissions": [
+    {
+      "categoryId": 1,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 2,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 3,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 5,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 6,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 7,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 10,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 11,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 12,
+      "actions": [
+        2
+      ]
+    },
+    {
+      "categoryId": 9,
+      "actions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categoryId": 13,
+      "actions": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    }
+  ]
+}
