@@ -278,5 +278,19 @@
     "action": "12",
     "name": "ACTION:12",
     "desc": "TEST MILL SCHEDULE"
+  },
+  {
+    "id": 103,
+    "entity": "CATEGORY",
+    "action": "8",
+    "name": "CATEGORY:8",
+    "desc": "SERVICE"
+  },
+  {
+    "id": 104,
+    "entity": "CATEGORY",
+    "action": "4",
+    "name": "CATEGORY:4",
+    "desc": "ADMIN"
   }
 ]
