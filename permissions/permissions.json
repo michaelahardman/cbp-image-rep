@@ -292,5 +292,19 @@
     "action": "4",
     "name": "CATEGORY:4",
     "desc": "ADMIN"
+  },
+  {
+    "id": 105,
+    "entity": "ACTION",
+    "action": "13",
+    "name": "ACTION:13",
+    "desc": "FIELD UPDATES"
+  },
+  {
+    "id": 106,
+    "entity": "ACTION",
+    "action": "14",
+    "name": "ACTION:14",
+    "desc": "PROFILE"
   }
 ]
