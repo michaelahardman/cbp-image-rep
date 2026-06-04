@@ -1201,7 +1201,7 @@
       },
       {
         "categoryId": 2,
-        "actions": [1, 2, 3, 4, 5]
+        "actions": [1, 2, 3, 4, 5, 15]
       },
       {
         "categoryId": 3,
@@ -1239,7 +1239,7 @@
       },
       {
         "categoryId": 2,
-        "actions": [1, 2, 3, 4, 5, 6]
+        "actions": [1, 2, 3, 4, 5, 6, 15]
       },
       {
         "categoryId": 3,
