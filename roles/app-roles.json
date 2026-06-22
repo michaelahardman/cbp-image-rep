@@ -51,7 +51,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10, 12]
+        "actions": [1, 2, 3, 4, 6, 10, 12]
       },
       {
         "categoryId": 13,
@@ -233,7 +233,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10]
+        "actions": [1, 2, 3, 4, 6, 10]
       },
       {
         "categoryId": 13,
@@ -307,7 +307,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10]
+        "actions": [1, 2, 3, 4, 6, 10]
       },
       {
         "categoryId": 13,
@@ -423,7 +423,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10]
+        "actions": [1, 2, 3, 4, 6, 10]
       },
       {
         "categoryId": 13,
@@ -1183,7 +1183,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10]
+        "actions": [1, 2, 3, 4, 6, 10]
       }
     ],
     "plant": [1, 2, 3, 9, 10],
@@ -1335,7 +1335,7 @@
       },
       {
         "categoryId": 12,
-        "actions": [1, 2, 3, 4, 10]
+        "actions": [1, 2, 3, 4, 6, 10]
       }
     ],
     "plant": [1, 2, 3, 9, 10],
