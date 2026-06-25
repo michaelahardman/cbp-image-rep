@@ -71,7 +71,7 @@
       },
       {
         "categoryId": 17,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5]
       },
       {
         "categoryId": 8,
@@ -315,7 +315,7 @@
       },
       {
         "categoryId": 17,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5]
       }
     ],
     "plant": [1, 2, 3, 9, 10],
@@ -431,7 +431,7 @@
       },
       {
         "categoryId": 17,
-        "actions": [1, 2, 3, 4]
+        "actions": [1, 2, 3, 4, 5]
       }
     ],
     "plant": [1, 2, 3, 9, 10],
